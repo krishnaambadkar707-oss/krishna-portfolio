@@ -4,7 +4,7 @@
 B.Tech student specializing in Artificial Intelligence & Data Science, building practical AI, Generative AI, Machine Learning, RAG, backend API, data analytics, and full-stack applications.
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://krishna-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90_View_My_Portfolio-000000?style=for-the-badge" alt="View My Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">
@@ -57,7 +57,7 @@ AI-powered applications that combine:
 ### 📫 Let's Connect
 If you're interested in AI, GenAI, Machine Learning, Data Science or building intelligent applications, feel free to connect.
 
-- 🌐 **Portfolio:** [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
+- 🌐 **Portfolio:** [https://krishna-portfolio.vercel.app](https://krishna-portfolio.vercel.app)
 - 💼 **LinkedIn:** [krishna-ambadkar-918955359](https://www.linkedin.com/in/krishna-ambadkar-918955359)
 - 📧 **Email:** [krishnaambadkar707@gmail.com](mailto:krishnaambadkar707@gmail.com)
 - 🐙 **GitHub:** [@krishnaambadkar707-oss](https://github.com/krishnaambadkar707-oss)
