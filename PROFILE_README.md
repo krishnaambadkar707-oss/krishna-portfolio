@@ -57,7 +57,7 @@ AI-powered applications that combine:
 ### 📫 Let's Connect
 If you're interested in AI, GenAI, Machine Learning, Data Science or building intelligent applications, feel free to connect.
 
-- 🌐 **Portfolio:** [https://krishna-portfolio.vercel.app](https://krishna-portfolio.vercel.app)
+- 🌐 **Portfolio:** [https://krishna-portfolio-five-delta.vercel.app](krishna-portfolio-five-delta.vercel.app)
 - 💼 **LinkedIn:** [krishna-ambadkar-918955359](https://www.linkedin.com/in/krishna-ambadkar-918955359)
 - 📧 **Email:** [krishnaambadkar707@gmail.com](mailto:krishnaambadkar707@gmail.com)
 - 🐙 **GitHub:** [@krishnaambadkar707-oss](https://github.com/krishnaambadkar707-oss)
