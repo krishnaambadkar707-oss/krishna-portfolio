@@ -60,50 +60,31 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1, duration: 0.9, ease: [0.22, 1, 0.36, 1] }}
-          className="mt-12 grid gap-10 md:grid-cols-12 md:items-center"
+          className="mt-12 max-w-3xl"
         >
-          <div className="md:col-span-7">
-            <p className="text-xl leading-snug md:text-2xl font-light text-paper">
-              AI &amp; Data Science engineer building practical AI, GenAI, ML and full-stack applications.
-            </p>
-            <p className="mt-5 max-w-xl leading-relaxed text-mute">
-              B.Tech student focused on Artificial Intelligence, Generative AI, Machine Learning, data analytics,
-              backend APIs, and intelligent user experiences.
-            </p>
+          <p className="text-xl leading-snug md:text-2xl font-light text-paper">
+            AI &amp; Data Science engineer building practical AI, GenAI, ML and full-stack applications.
+          </p>
+          <p className="mt-5 max-w-2xl leading-relaxed text-mute">
+            B.Tech student focused on Artificial Intelligence, Generative AI, Machine Learning, data analytics,
+            backend APIs, and intelligent user experiences.
+          </p>
 
-            <div className="mt-8 flex flex-wrap items-center gap-4">
-              <a
-                href="#work"
-                className="group inline-flex items-center gap-2 rounded-full bg-accent px-7 py-4 text-sm font-medium text-ink transition-transform duration-300 hover:-translate-y-0.5"
-              >
-                Explore Projects
-                <ArrowDown size={16} className="transition-transform duration-300 group-hover:translate-y-1" />
-              </a>
-              <a
-                href="#contact"
-                className="group inline-flex items-center gap-2 rounded-full border border-line px-7 py-4 text-sm transition-colors duration-300 hover:border-paper"
-              >
-                Let&apos;s Connect
-                <ArrowUpRight size={16} className="transition-transform duration-300 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
-              </a>
-            </div>
-          </div>
-
-          <div className="md:col-span-5 md:flex md:justify-end">
-            <div className="group relative overflow-hidden rounded-2xl border border-line/60 bg-ink/40 p-2 backdrop-blur-md transition-all duration-500 hover:border-accent/40 max-w-[300px] w-full">
-              <div className="relative aspect-[9/15] w-full overflow-hidden rounded-xl bg-ink/80 flex items-center justify-center">
-                <img
-                  src="/portfolio-bg.png"
-                  alt="Krishna Portfolio Feature"
-                  className="h-full w-full object-contain object-top transition-transform duration-700 group-hover:scale-[1.02]"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-transparent to-transparent opacity-70 pointer-events-none" />
-                <div className="absolute bottom-3 left-3 right-3 rounded-lg border border-line/40 bg-ink/70 p-3 backdrop-blur-md">
-                  <p className="font-display text-sm font-medium text-paper">Krishna Ambadkar</p>
-                  <p className="text-xs text-accent">AI & Data Science Student</p>
-                </div>
-              </div>
-            </div>
+          <div className="mt-8 flex flex-wrap items-center gap-4">
+            <a
+              href="#work"
+              className="group inline-flex items-center gap-2 rounded-full bg-accent px-7 py-4 text-sm font-medium text-ink transition-transform duration-300 hover:-translate-y-0.5"
+            >
+              Explore Projects
+              <ArrowDown size={16} className="transition-transform duration-300 group-hover:translate-y-1" />
+            </a>
+            <a
+              href="#contact"
+              className="group inline-flex items-center gap-2 rounded-full border border-line px-7 py-4 text-sm transition-colors duration-300 hover:border-paper"
+            >
+              Let&apos;s Connect
+              <ArrowUpRight size={16} className="transition-transform duration-300 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+            </a>
           </div>
         </motion.div>
 
