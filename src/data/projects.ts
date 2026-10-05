@@ -42,7 +42,7 @@ export const projects: Project[] = [
     deployed: false,
     featured: true,
     visual: 'rag',
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/RAG_Project',
     demo: null,
   },
   {
@@ -65,7 +65,7 @@ export const projects: Project[] = [
     deployed: false,
     featured: true,
     visual: 'hana',
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/ISL_Project',
     demo: null,
   },
   {
@@ -115,7 +115,7 @@ export const projects: Project[] = [
     featured: true,
     visual: 'traffic',
     hackathon: { name: 'Manthan 4 Yuwa – Vikasit Nagpur', year: '2026', role: 'Full-Stack Developer' },
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/AITraffic',
     demo: null,
   },
   {
@@ -130,7 +130,7 @@ export const projects: Project[] = [
     tech: ['Full Stack', 'AI'],
     deployed: true,
     featured: false,
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/July',
     demo: null,
   },
   {
@@ -157,7 +157,7 @@ export const projects: Project[] = [
     tech: ['Data Science', 'Machine Learning'],
     deployed: true,
     featured: false,
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/Financial_analyser',
     demo: null,
   },
   {
@@ -171,7 +171,7 @@ export const projects: Project[] = [
     tech: ['Signal Processing', 'Data Science'],
     deployed: true,
     featured: false,
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/ECG_Project',
     demo: null,
   },
   {
@@ -185,7 +185,7 @@ export const projects: Project[] = [
     tech: ['Data Cleaning', 'Grouping', 'Aggregation'],
     deployed: true,
     featured: false,
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/Pandas_Project',
     demo: null,
   },
   {
@@ -199,7 +199,7 @@ export const projects: Project[] = [
     tech: ['NumPy', 'Python Wave'],
     deployed: true,
     featured: false,
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/Numpy_project',
     demo: null,
   },
   {
