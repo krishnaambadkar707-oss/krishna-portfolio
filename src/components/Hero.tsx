@@ -7,7 +7,7 @@ const meta = [
   { value: 'Amravati, India', hint: 'Based in' },
   { value: 'AI & Data Science', hint: 'B.Tech' },
   { value: '12 Projects', hint: 'Built' },
-  { value: '6 Deployed Applications', hint: 'Live' },
+  { value: '8 Deployed Applications', hint: 'Live' },
 ]
 
 export default function Hero() {
