@@ -43,7 +43,7 @@ export const projects: Project[] = [
     featured: true,
     visual: 'rag',
     github: 'https://github.com/krishnaambadkar707-oss/RAG_Project',
-    demo: 'https://numpy-project-tan.vercel.app/',
+    demo: 'https://rag-project-2.vercel.app/',
   },
   {
     id: 'hana',
