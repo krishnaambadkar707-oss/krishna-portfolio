@@ -4,7 +4,7 @@ import SectionHeader from './SectionHeader'
 
 const stats = [
   { node: <Counter to={12} suffix="+" />, label: 'Projects' },
-  { node: <Counter to={8} suffix="+" />, label: 'Deployed Applications' },
+  { node: <Counter to={8} />, label: 'Deployed Applications' },
   { node: <Counter to={8.55} decimals={2} />, label: 'CGPA through 2nd year' },
   { node: <Counter to={2026} from={2000} duration={1.4} />, label: 'Hackathon' },
 ]
