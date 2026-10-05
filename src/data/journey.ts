@@ -15,7 +15,7 @@ export const journey: JourneyItem[] = [
   },
   { when: 'Through 2nd year', title: 'CGPA', detail: '8.55' },
   { when: '2026', title: 'Manthan 4 Yuwa – Vikasit Nagpur', detail: 'Full-Stack Developer, Nagpur Traffic AI' },
-  { when: '2026', title: '12+ AI / Data Science projects', detail: '6 deployed applications' },
+  { when: '2026', title: '12+ AI / Data Science projects', detail: '8 deployed applications' },
 ]
 
 export const buildAreas = [
@@ -51,6 +51,6 @@ export const principles = [
 
 export const links = {
   github: 'https://github.com/krishnaambadkar707-oss',
-  linkedin: 'https://linkedin.com/in/krishna-ambadkar-918955359',
+  linkedin: 'https://linkedin.com/in/krishna-ambadkar',
   email: 'krishnaambadkar707@gmail.com',
 }
