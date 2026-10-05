@@ -43,7 +43,7 @@ export const projects: Project[] = [
     featured: true,
     visual: 'rag',
     github: 'https://github.com/krishnaambadkar707-oss/RAG_Project',
-    demo: null,
+    demo: 'https://numpy-project-tan.vercel.app/',
   },
   {
     id: 'hana',
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     featured: true,
     visual: 'hana',
     github: 'https://github.com/krishnaambadkar707-oss/ISL_Project',
-    demo: null,
+    demo: 'https://isl-project-2.vercel.app/',
   },
   {
     id: 'kumari',
@@ -116,7 +116,7 @@ export const projects: Project[] = [
     visual: 'traffic',
     hackathon: { name: 'Manthan 4 Yuwa – Vikasit Nagpur', year: '2026', role: 'Full-Stack Developer' },
     github: 'https://github.com/krishnaambadkar707-oss/AITraffic',
-    demo: null,
+    demo: 'https://ai-traffic-peach.vercel.app/',
   },
   {
     id: 'aivoa',
@@ -131,7 +131,7 @@ export const projects: Project[] = [
     deployed: true,
     featured: false,
     github: 'https://github.com/krishnaambadkar707-oss/July',
-    demo: null,
+    demo: 'https://july-4.vercel.app/',
   },
   {
     id: 'house-price-api',
@@ -158,7 +158,7 @@ export const projects: Project[] = [
     deployed: true,
     featured: false,
     github: 'https://github.com/krishnaambadkar707-oss/Financial_analyser',
-    demo: null,
+    demo: 'https://financial-analyser-one.vercel.app/',
   },
   {
     id: 'ecg-analyzer',
@@ -172,7 +172,7 @@ export const projects: Project[] = [
     deployed: true,
     featured: false,
     github: 'https://github.com/krishnaambadkar707-oss/ECG_Project',
-    demo: null,
+    demo: 'https://ecg-project-1.vercel.app/',
   },
   {
     id: 'social-media-analyzer',
@@ -186,7 +186,7 @@ export const projects: Project[] = [
     deployed: true,
     featured: false,
     github: 'https://github.com/krishnaambadkar707-oss/Pandas_Project',
-    demo: null,
+    demo: 'https://pandas-project-seven.vercel.app/',
   },
   {
     id: 'audio-processor',
@@ -199,8 +199,8 @@ export const projects: Project[] = [
     tech: ['NumPy', 'Python Wave'],
     deployed: true,
     featured: false,
-    github: 'https://github.com/krishnaambadkar707-oss/Numpy_project',
-    demo: null,
+    github: 'https://github.com/krishnaambadkar707-oss/Numpy_Project',
+    demo: 'https://numpy-project-tan.vercel.app/',
   },
   {
     id: 'movie-recommendation',
