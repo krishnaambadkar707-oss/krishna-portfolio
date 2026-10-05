@@ -25,7 +25,7 @@ export default function About() {
           </Reveal>
           <Reveal delay={0.1} className="md:col-span-5">
             <p className="text-lg leading-relaxed text-mute">
-              His project work spans document intelligence, LLM applications, AI companions, computer vision, traffic
+              Her project work spans document intelligence, LLM applications, AI companions, computer vision, traffic
               intelligence, predictive analytics, signal processing, and data-driven applications.
             </p>
           </Reveal>
