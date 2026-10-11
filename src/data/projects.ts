@@ -42,8 +42,8 @@ export const projects: Project[] = [
     deployed: true,
     featured: true,
     visual: 'rag',
-    github: 'https://github.com/krishnaambadkar707-oss/RAG_Project',
-    demo: 'https://rag-project-2.vercel.app/',
+    github: null,
+    demo: null,
   },
   {
     id: 'hana',
