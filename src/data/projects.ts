@@ -88,7 +88,7 @@ export const projects: Project[] = [
     deployed: false,
     featured: true,
     visual: 'kumari',
-    github: null,
+    github: 'https://github.com/krishnaambadkar707-oss/Kumari',
     demo: null,
   },
   {
